@@ -86,11 +86,11 @@ README.md
 
 ## Academic Project
 
-Developed as a Software Engineering project for the BSc (Hons) Information Technology program at Sri Lanka Institute of Information Technology (SLIIT).
+Developed as a Software Engineering project for 2 year 1 semester as a 6 memebre group project
 
 ## Author
 
 Thiloka Kulathunga
 BSc (Hons) Information Technology – Artificial Intelligence
 Sri Lanka Institute of Information Technology (SLIIT) 
-2 year 1 semester software Engineering project
+
