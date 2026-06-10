@@ -71,7 +71,18 @@ README.md
 
 ## Screenshots
 
+** order Dashboard **
+<img width="1041" height="450" alt="image" src="https://github.com/user-attachments/assets/025a7cda-28b0-4bcf-b9a0-996a6eea06a8" />
 
+** View order details and update or delete **
+<img width="1041" height="516" alt="image" src="https://github.com/user-attachments/assets/21dcfe57-7bdd-49f9-94f9-776162e69ada" />
+
+** Submitting the order  **
+<img width="1041" height="476" alt="image" src="https://github.com/user-attachments/assets/63ab1c01-653a-4333-a6f4-1339ee7fa156" />
+<img width="1041" height="290" alt="image" src="https://github.com/user-attachments/assets/48b93deb-a352-4423-981e-5293c094a33a" />
+
+** Admin dashboard View all Orders **
+<img width="1041" height="496" alt="image" src="https://github.com/user-attachments/assets/6f78d58d-bd01-40d5-b244-827325144c84" />
 
 ## Academic Project
 
